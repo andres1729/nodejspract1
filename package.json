@@ -18,7 +18,7 @@
   "homepage": "https://github.com/andres1729/nodejs-pract1#readme",
   "dependencies": {
     "bcrypt": "^3.0.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hbs": "^4.1.0",
     "https": "^1.0.0",
     "lodash": "^4.17.15",
